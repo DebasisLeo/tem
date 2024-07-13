@@ -22,10 +22,7 @@ nav{
     gap: 30px;
     background-color: aqua;
 }
-.har img{
-    width: 70%;
-    height: 50%;
-}
+
 .head{
     text-align: center;
 }
@@ -252,5 +249,8 @@ img{
     .f1{
         width: 100%;
     }
-    
+    .har img{
+        width: 70%;
+        height: 50%;
+    }
 }
